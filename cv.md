@@ -1,12 +1,13 @@
 # Aliaksey Chergeiko
-![Avatar](rsschool-cv\my_avatar.png "Avatar")
+![def]
+
 ##
-| -    | Contacts             |
-| ----------- |:------------:|
+| -           | Contacts             |
+| ----------- |:------------------------:|
 | E-mail      | leshachergeyko@gmail.com |
-| Discord: | Lesha Chergeiko(@Gregoper)
-GitHub | [Gregoper](https://github.com/Gregoper)
-Location | Grodno, Belarus
+| Discord:    | Lesha Chergeiko(@Gregoper)|
+|GitHub       | [Gregoper](https://github.com/Gregoper)|
+|Location     | Grodno, Belarus|
 
 ### About me
 ##### Mechanical professional with diverse experience. 27 years old. I'm trying to learn the profession of a front-end developer *from scratch* and change my life.
@@ -34,3 +35,5 @@ Location | Grodno, Belarus
 * Russian
 * Belarusian
 * English
+
+[def]: my_avatar.png "Avatar"

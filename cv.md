@@ -2,7 +2,7 @@
 ![def]
 
 ##
-| -           | Contacts             |
+| -           | Contacts                 |
 | ----------- |:------------------------:|
 | E-mail      | leshachergeyko@gmail.com |
 | Discord:    | Lesha Chergeiko(@Gregoper)|

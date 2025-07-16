@@ -5,7 +5,9 @@ html, body {
     padding: 0;
 }
 header {
-  padding: 16px 0;
+  background: #020024;
+  background: linear-gradient(180deg,rgba(2, 0, 36, 1) 0%, rgba(24, 24, 150, 1) 50%, rgba(255, 255, 255, 1) 100%);
+  padding: 35px;
 }
 nav ul {
   display: flex;
@@ -16,6 +18,29 @@ nav ul {
   padding: 0;
 }
 nav a {
+  color: #fff;
   text-decoration: none;
   font-weight: bold;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.bio {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  padding: 20px 0;
+}
+h1 {
+    font-size: 45px;
+    color: #181896;
+}
+.avatar {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  display: block;
 }
